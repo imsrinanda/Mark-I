@@ -7,6 +7,7 @@ This documentation provides an overview and instructions for a Python mini proje
 - [Functionality](#functionality)
 - [User-Defined Functions](#user-defined-functions)
 - [Running the Project](#running-the-project)
+- [Outputs](#Outputs)
 
 ## Introduction
 The Python mini project is designed to manage attendance records of students. It utilizes CSV files containing attendance data and provides various functions to analyze and manipulate the attendance information.
@@ -147,7 +148,21 @@ for i in range(op1):
         check_attendance_percentage(roll_number)
     ...
 ```
+## Outputs
+### 1 Viewing the attendance details of a specific student:
+![image](https://github.com/imsrinanda/Mark-I/assets/118894828/707bb263-b84e-44e0-bf28-cd583e3971db)
+### 2 Checking attendance percentage:
+![image](https://github.com/imsrinanda/Mark-I/assets/118894828/b09d26b3-8d94-4b87-b42d-28cea007937f)
+### 3 Checking if a particular student is eligibe to write the exams:
+![image](https://github.com/imsrinanda/Mark-I/assets/118894828/fcb5508b-4f03-4313-aa99-dbd71c9348fd)
+### 4 Marking the attendance:
+![image](https://github.com/imsrinanda/Mark-I/assets/118894828/5f3d25e8-298e-42e4-a166-02c4a41dc5d4)
+### 5 Checking the classes the student can miss:
+![image](https://github.com/imsrinanda/Mark-I/assets/118894828/7e29489c-6235-4c2d-9d25-673bfbf202c5)
+### 6 Exit:
+There isn't any special output, however the program stops running when this option is chosen.
 
-Note: Make sure to replace the file paths (`"/content/201 att.csv"`, etc.) with the actual paths to your CSV files.
 
-This concludes the documentation for the Python mini project.
+
+
+
